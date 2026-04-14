@@ -313,5 +313,4 @@ Las contribuciones son bienvenidas. Abra un **issue** o envíe un **pull request
 
 ---
 
-## Licencia
-Pendiente de definición por el autor. Si no se especifica, se sugiere incluir un archivo `LICENSE` (por ejemplo, MIT).
+
